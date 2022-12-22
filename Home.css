@@ -1,0 +1,32 @@
+body {
+ background-color: lightblue;
+ text-align: center;
+}
+
+h1 {
+ color: blue;
+ font-size: 35;
+}
+
+marquee{
+ color: blue;
+ font-size: 30;
+}
+
+hr {
+ background-color: black;
+ height: 2px;
+}
+
+p1 {
+ font-size: 20;
+}
+
+.row {
+ display: flex;
+}
+
+.column {
+ flex: 33.33%
+ padding: 5px;
+}
